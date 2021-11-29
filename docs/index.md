@@ -1,6 +1,7 @@
 <!-- # Representation of speech, articulatory dynamics, prosody and language in layers. What do the models know? -->
 
 <img src="innterpret_logo.png" alt="innterpret" width="200"/>
+
 # Special Session, S2 at [ICON 2021](http://icon2021.nits.ac.in/): 18th International Conference on Natural Language Processing 
 16th-19th December, 2021 
 ## Motivation
