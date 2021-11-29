@@ -1,5 +1,5 @@
 title: Representation of speech, articulatory dynamics, prosody and language in layers 
 description: What models know?
 google_analytics: speech, articulatory, prosody, layers, models
-# theme: jekyll-theme-tactile
-remote_theme: benbalter/retlab
+theme: jekyll-theme-tactile
+# remote_theme: benbalter/retlab
