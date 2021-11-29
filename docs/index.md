@@ -18,7 +18,7 @@ The non-linear dynamics between speech articulation and acoustics is both elegan
 ### Organizer
 - [*Indranil Dutta*](https://duttalab.github.io/indranil.html), [School of Languages and Linguistics](http://www.jaduniv.edu.in/view_department.php?deptid=143), [Jadavpur University](http://www.jaduniv.edu.in/)
 
-
+---
 ### Program
 - 19th December, 2021. Times are in Indian Standard Time, GMT +5:30
 
