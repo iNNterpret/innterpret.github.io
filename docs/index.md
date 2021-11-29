@@ -1,5 +1,7 @@
 <!-- # Representation of speech, articulatory dynamics, prosody and language in layers. What do the models know? -->
 
+# Special Session, S1 at ICON 2021: 18th INternational Conference on Natural Language Processing 
+16th-19th December, 2021 
 ## Motivation
 
 Neural architectures have accelerated the growth of speech applications in a wide variety of fields not just restricted to traditional automatic speech recognition (ASR) and text-to-speech (TTS) synthesis - these include, deducing and increasing the interpretability of neural networks, articulatory-acoustic-mapping, and neural language models, and extensive and precise modeling of speech prosody. This session will be dedicated to provide talks from a wide-variety of such perspectives to bring together advances that highlight how computational and linguistic approaches converge in both providing technological and scholarly solutions to classical problems in speech -- acoustics, articulation, prosody, and technology.
@@ -8,7 +10,15 @@ The non-linear dynamics between speech articulation and acoustics is both elegan
 
 ### Speakers
 
-- What do RNNs learn when they learn vowel harmony? 
-	- 9:00-9:25 am: Frédéric Mailhot
-- Kristin Yu
+- [Gašper Beguš](https://gbegus.github.io/)
+- [Brigitte Bigi](http://www2.lpl-aix.fr/~bigi/)
+- [Prasanta Kumar Ghosh](http://www.ee.iisc.ac.in/new/people/faculty/prasantg/)
+- [Shakuntala Mahanta](https://www.iitg.ac.in/hss/faculty_page_profile.php?name=MzgvUVFIK2oydWpTaXFzNUJOUkExZz09)
+- [Frédéric Mailhot](https://carleton.ca/cognitivescience/people/fred-mailhot/)
+- [Moumita Pakrashi](https://www.researchgate.net/profile/Moumita-Pakrashi)
+- [Kristine Yu](https://www.krisyu.org/)
+
+### Organizer
+ - [Indranil Dutta](https://duttalab.github.io/indranil.html)
+
 
