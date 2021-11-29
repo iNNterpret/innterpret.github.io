@@ -1,0 +1,6 @@
+<!-- # Representation of speech, articulatory dynamics, prosody and language in layers. What do the models know? -->
+
+## Invariant and variant characteristics in speech articulation
+*Prasanta Kumar Ghosh*, [Indian Institute of Science](https://iisc.ac.in/)
+
+Speech articulation varies across speakers for producing a speech sound due to the differences in their vocal tract morphologies, though the speech motor actions are executed in terms of relatively invariant gestures. While the invariant articulatory gestures are driven by the linguistic content of the spoken utterance, the component of speech articulation that varies across speakers reflects speaker-specific and other paralinguistic information. In this talk, a formulation will be presented to decompose the speech articulation from multiple speakers into the variant and invariant aspects when they speak the same sentence. Experiments with real-time magnetic resonance imaging (rtMRI) videos of speech production show that the variant component will be shown to be a better representation for discriminating speakers compared to the speech articulation which includes the invariant part.

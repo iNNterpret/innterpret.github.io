@@ -1,0 +1,6 @@
+<!-- # Representation of speech, articulatory dynamics, prosody and language in layers. What do the models know? -->
+
+## Interpreting internal representations of deep convolutional neural networks trained on raw speech
+
+*Gašper Beguš*, [UC Berkeley](https://www.berkeley.edu/)
+In this talk, I present a technique to visualize and interpret intermediate representations in deep convolutional neural networks trained in an unsupervised manner on raw speech data. I further propose an extension of the GAN architecture in which learning of meaningful linguistic units emerges from a requirement that the networks output informative data. With this model, we can test what the networks can and cannot learn, how their biases match human learning biases (by comparing both behavioral and neural data with networks’ outputs), how they represent linguistic structure internally, and what GAN's innovative outputs can teach us about productivity in human language. This talk also makes a more general case for probing deep neural networks with raw speech data, as dependencies in speech are often better understood than those in the visual domain and because behavioral data on speech acquisition are relatively easily accessible.

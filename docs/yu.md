@@ -1,6 +1,6 @@
 <!-- # Representation of speech, articulatory dynamics, prosody and language in layers. What do the models know? -->
 
 ## Representations for multiple dependencies in prosodic structures 
-*Kristine Yu*, UMass Amherst
+*Kristine Yu*, [UMass Amherst](https://www.umass.edu/)
 
 Computational perspectives from string grammars have richly informed our understanding of phonological patterns in natural language in the past decade. However, a prevailing theoretical assumption of phonologists since the 1980s has been that phonological patterns and processes are computed on trees built with prosodic constituents such as syllables, feet, and prosodic words. Moreover, multiple dependencies in prosodic structures, such as multiple association of a tone to a higher-level prosodic node in addition to a tone bearing unit such as a mora or syllable, have been broadly assumed in intonational phonology without much comment. We revisit these concepts and show that multiple bottom up tree transducers provide a natural representation for multiple tonal association as well as multiple dependencies in prosodic structures in general, including prosodically-conditioned segmental allophony. 
