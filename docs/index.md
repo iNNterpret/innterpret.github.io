@@ -1,9 +1,9 @@
 <!-- # Representation of speech, articulatory dynamics, prosody and language in layers. What do the models know? -->
 
-<img align="left" style="padding-right: 20px;" src="innterpret_logo.png" alt="innterpret" width="200"/> 
+<img align="left" style="padding-right: 15px;" src="innterpret_logo.png" alt="innterpret" width="200"/> 
 
 # Special Session, S2 at [ICON 2021](http://icon2021.nits.ac.in/): 18th International Conference on Natural Language Processing 
-16th-19th December, 2021 
+## 16th-19th December, 2021 
 ## Motivation
 Neural architectures have accelerated the growth of speech applications in a wide variety of fields not just restricted to traditional automatic speech recognition (ASR) and text-to-speech (TTS) synthesis - these include, deducing and increasing the interpretability of neural networks, articulatory-acoustic-mapping, and neural language models, and extensive and precise modeling of speech prosody. This session will be dedicated to provide talks from a wide-variety of such perspectives to bring together advances that highlight how computational and linguistic approaches converge in both providing technological and scholarly solutions to classical problems in speech -- acoustics, articulation, prosody, and technology.
 
