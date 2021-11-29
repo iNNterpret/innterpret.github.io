@@ -1,4 +1,4 @@
-# Representation of speech, articulatory dynamics, prosody and language in layers. What do the models know?
+<!-- # Representation of speech, articulatory dynamics, prosody and language in layers. What do the models know? -->
 
 ## Motivation
 
