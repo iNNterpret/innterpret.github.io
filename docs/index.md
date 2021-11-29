@@ -1,5 +1,3 @@
-<!-- # Representation of speech, articulatory dynamics, prosody and language in layers. What do the models know? -->
-
 # Special Session, S1 at [ICON 2021](http://icon2021.nits.ac.in/): 18th International Conference on Natural Language Processing 
 16th-19th December, 2021 
 ## Motivation
