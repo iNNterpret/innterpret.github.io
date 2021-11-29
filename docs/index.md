@@ -23,7 +23,7 @@ The non-linear dynamics between speech articulation and acoustics is both elegan
 - 19th December, 2021. Times are in Indian Standard Time, GMT +5:30
 
 | Title 	| Time 	| Presenter 	|
-|---	|---	|---	|
+|:---	|:---:	|---:	|
 | What do RNNs learn when they learn vowel harmony? 	| 9:00-9:25 am 	| Frédéric Mailhot  	|
 | Representations for multiple dependencies in prosodic structures 	| 9:30-9:55 am 	| Kristine Yu 	|
 | Invariant and variant characteristics in speech articulation 	| 10:00-10:25 am 	| Prasanta Kumar Ghosh 	|
