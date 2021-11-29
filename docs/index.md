@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Representation of speech, articulatory dynamics, prosody and language in layers. What do the models know?
 
-You can use the [editor on GitHub](https://github.com/iNNterpret/innterpret.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## Motivation
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Neural architectures have accelerated the growth of speech applications in a wide variety of fields not just restricted to traditional automatic speech recognition (ASR) and text-to-speech (TTS) synthesis - these include, deducing and increasing the interpretability of neural networks, articulatory-acoustic-mapping, and neural language models, and extensive and precise modeling of speech prosody. This session will be dedicated to provide talks from a wide-variety of such perspectives to bring together advances that highlight how computational and linguistic approaches converge in both providing technological and scholarly solutions to classical problems in speech -- acoustics, articulation, prosody, and technology.
 
-### Markdown
+The non-linear dynamics between speech articulation and acoustics is both elegance and a source of confounds for building viable applications and knowledge representations. We will begin this session with an overview of how neural architectures have been used for learning phonological patterns, following that we will look into how speech prosody and phonation can help build representations that are holistic. We will also investigate how the non-linearity between articulation and acoustics can be examined to offer insights into the acoustic-articulatory mapping and how this mapping can be used for prediction in several domains. Our special invited lecture will shed light on how Generative Adversarial Networks are used in forming generalizations akin to phonological representations.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Speakers
 
-```markdown
-Syntax highlighted code block
+- What do RNNs learn when they learn vowel harmony? 
+	- 9:00-9:25 am: Frédéric Mailhot
+- Kristin Yu
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iNNterpret/innterpret.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
