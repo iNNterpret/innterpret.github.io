@@ -1,4 +1,4 @@
-theme: jekyll-theme-tactile
----
 title: Representation of speech, articulatory dynamics, prosody and language in layers. What do the models know?
----
+description: Tactile is a theme for GitHub Pages.
+google_analytics:
+theme: jekyll-theme-tactile
