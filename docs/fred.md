@@ -1,6 +1,6 @@
 <!-- # Representation of speech, articulatory dynamics, prosody and language in layers. What do the models know? -->
 
-## What do RNNs learn when they learn vowel harmony?
+## Probing Phonological Encoding with Small RNNs
 *Fred Mailhot*, [Dialpad, Inc.](https://www.dialpad.com/)
 
 Recent research makes clear that deep learning provides an extremely powerful computational framework for modeling natural language phenomena across various linguistic domains. Such models frequently make use of multiple layers of high-dimensional hidden layers, often augmented with multiple attention heads. Although techniques are being developed to interpret the internal representations of these models, their massive scale (O(10^9) parameters) makes it a non-trivial challenge to "peek under the hood".

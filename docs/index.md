@@ -15,7 +15,7 @@ The non-linear dynamics between speech articulation and acoustics is both elegan
 - [*Prasanta Kumar Ghosh*](https://ee.iisc.ac.in/prasanta-kumar-ghosh/), [Department of Electrical Engineering](https://ee.iisc.ac.in/), [Indian Institute of Science](https://iisc.ac.in/)
 - [*Shakuntala Mahanta*](https://www.iitg.ac.in/hss/faculty_page_profile.php?name=MzgvUVFIK2oydWpTaXFzNUJOUkExZz09), [Humanities and Social Sciences](https://www.iitg.ac.in/hss/), [Indian Institute of Technology Guwahati](https://www.iitg.ac.in/)
 - [*Fred Mailhot*](https://www.linkedin.com/in/fmailhot/), [Dialpad, Inc.](https://www.dialpad.com/)
-- [*Moumita Pakrashi*](https://www.researchgate.net/profile/Moumita-Pakrashi), [Humanities and Social Sciences](https://www.iitg.ac.in/hss/), [Indian Institute of Technology Guwahati](https://www.iitg.ac.in/)
+- [*Moumita Pakrashi*](https://www.researchgate.net/profile/Moumita-Pakrashi), [ Centre for Linguistic Science and Technology](https://www.iitg.ac.in/clst/), [Indian Institute of Technology Guwahati](https://www.iitg.ac.in/)
 - [*Kristine Yu*](https://www.krisyu.org/), [Department of Linguistics](https://www.umass.edu/linguistics), [University of Massachussetts Amherst](https://www.umass.edu/)
 
 ### Organizer
@@ -27,7 +27,7 @@ The non-linear dynamics between speech articulation and acoustics is both elegan
 
 | Title 	| Time 	| Presenter 	|
 |:---	|:---:	|---:	|
-| [What do RNNs learn when they learn vowel harmony?](fred.md)	| 9:00-9:25 am 	| *Fred Mailhot* 	|
+| [Probing Phonological Encoding with Small RNNs](fred.md)	| 9:00-9:25 am 	| *Fred Mailhot* 	|
 | [Representations for multiple dependencies in prosodic structures](yu.md) 	| 9:30-9:55 am 	| *Kristine Yu*	|
 | [Invariant and variant characteristics in speech articulation](ghosh.md) 	| 10:00-10:25 am 	| *Prasanta Kumar Ghosh* 	|
 | [Automated Speech Processing of Bengali using SPPAS software](pmb.md)	| 10:30-10:55 am 	| *Brigitte Bigi, Shakuntala Mahanta, Moumita Pakrashi* 	|
